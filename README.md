@@ -13,4 +13,4 @@ This is an example of [my code](https://gist.github.com/jglee1/b749054c17cd31a47
 
 ### Colab example
 
-This is the notebook0
+This is the [notebook](https://github.com/jglee1/technical-discussion/blob/main/technical_docs.ipynb)
